@@ -1,4 +1,5 @@
 export const navItems = [
+    { name: "Home", link: "/" },
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
     { name: "Testimonials", link: "#testimonials" },
@@ -204,7 +205,7 @@ export const navItems = [
   export const socialMedia = [
     {
       id: 1,
-      img: "/git.svg",
+      img: "/z1.svg",
     },
     {
       id: 2,
